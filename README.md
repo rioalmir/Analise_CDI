@@ -1,4 +1,4 @@
-#Análise de Retornos do CDI
+# Análise de Retornos do CDI
 
 ## Descrição
 Este projeto tem como objetivo analisar os retornos do CDI (Certificado de Depósito Interbancário) desde 1994. Utilizando dados coletados diretamente do Banco Central do Brasil, a aplicação fornece uma calculadora de retorno do CDI e avalia diferentes janelas de tempo para análises comparativas.
